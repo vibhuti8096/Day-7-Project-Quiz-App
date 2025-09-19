@@ -6,7 +6,8 @@ A sleek, responsive quiz application built using **HTML**, **CSS**, and **JavaSc
 ## 📸 Demo
 
 
-<img width="1295" height="802" alt="image" src="https://github.com/user-attachments/assets/c6bae3cb-ea33-4a9d-a534-9782b3b0ae41" />
+<img width="799" height="702" alt="Screenshot 2025-09-19 151756" src="https://github.com/user-attachments/assets/868a3a13-f4cb-45d3-b600-5dc5a356c690" />
+
 ## 🚀 Features
 
 - ✅ Multiple-choice questions with instant feedback
